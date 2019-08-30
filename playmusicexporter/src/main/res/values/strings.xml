@@ -118,8 +118,8 @@
     <string name="settings_export_path_custom">Custom path</string>
     <string name="settings_export_overwrite_existing">Overwrite existing files</string>
 
-    <string name="settings_open_old_homepage_title" translatable="false">David-Schulte.de</string>
-    <string name="settings_open_old_homepage_url" translatable="false"><![CDATA[http://www.david-schulte.de/]]></string>
+    <string name="settings_open_old_homepage_title" translatable="false">costa.nrw</string>
+    <string name="settings_open_old_homepage_url" translatable="false"><![CDATA[https://costa.nrw/]]></string>
 
     <string name="settings_open_homepage_title">Website</string>
     <string name="settings_open_homepage_url" translatable="false"><![CDATA[https://github.com/jcgruenhage/PlayMusicExporter]]></string>
